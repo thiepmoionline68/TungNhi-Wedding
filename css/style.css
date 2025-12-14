@@ -421,7 +421,7 @@ body {
 .about-media img {
     transition: .5s;
     border-radius: 12px;
-    aspect-ratio: 1.2/1;
+    aspect-ratio: 1/1;
     object-fit: cover;
 }
 .about-media:hover img {
