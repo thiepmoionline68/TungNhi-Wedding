@@ -2,15 +2,15 @@
 
 @font-face {
     font-family: script-font;
-    src: url(../fonts/SVN-A-Love-Of-Thunder.ttf);
+    src: url(../fonts/DancingScript-Bold.ttf);
 }
 @font-face {
     font-family: title-font;
-    src: url(../fonts/SVN-A-Love-Of-Thunder.ttf);
+    src: url(../fonts/DancingScript-Bold.ttf);
 }
 @font-face {
     font-family: main-font;
-    src: url(../fonts/SVN-A-Love-Of-Thunder.ttf);
+    src: url(../fonts/DancingScript-Bold.ttf);
 }
 :root {
     --max-width : 1024px;
@@ -37,7 +37,7 @@
     /* font-family */
     --script-font: script-font;
     --main-font:'Be Vietnam Pro', sans-serif ;
-    --title-font:'Playfair Display', serif;
+    --title-font:'Chonburi', serif;
     /* space */
     --space-4 : 4px;
     --space-8 : 8px;
